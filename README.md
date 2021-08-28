@@ -2,7 +2,7 @@
 
 An example if a ListView Builder generating a tree branch
 
-![Image]('images/example.png')
+![Image](images/example.png)
 
 ## Getting Started
 
