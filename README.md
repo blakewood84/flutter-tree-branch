@@ -1,6 +1,8 @@
 # flutter_branch_tree
 
-A new Flutter project.
+An example if a ListView Builder generating a tree branch
+
+![Image]('images/example.png')
 
 ## Getting Started
 
